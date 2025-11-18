@@ -1,17 +1,16 @@
 ﻿public class Car
 {
-    private int y;
     public Car()
     {
             
     }
     
-    public String Make
+    public string Make
     {
         get; set;
             
     }
-    public String Model
+    public string Model
     {
         get; set;
             

@@ -8,7 +8,7 @@
             a.Make = "Hyundai";
             a.Model = "Sonata";
             a.Year = 2023;
-            Console.WriteLine("This "+a.Make+" "+a.Model+" is made in "+a.Year);
+            Console.WriteLine($"This {a.Make} {a.Model} is made in {a.Year}");
         }
     }
 
